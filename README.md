@@ -7,9 +7,9 @@ npm install
 ```
 
 
-**$ npm install -g @nestjs/cli
+$ npm install -g @nestjs/cli
 $ nest new my-nest-project
 $ cd my-nest-project
 $ npm run start:dev**
-**
+
 
