@@ -10,7 +10,7 @@
 
 1. Clonez le projet
 ```sh
-git clone https://github.com/nhoss6/Node-js-Mango-db/
+git clone https://github.com/nhoss6/microfinal
 ```
 
 2. Installation les dépendances
